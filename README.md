@@ -1,4 +1,4 @@
-# oort 팀 내려받기 페이지
+# oort-site (옮겨짐)
 
-https://team.oor7.com/ — oort Mac 앱 내려받기와 설치 안내. 팀 안에서 쓰는 페이지예요(검색 노출 없음).
-설치 파일은 이 저장소의 Releases에 있어요.
+oort Mac 앱 내려받기 페이지는 https://app.oor7.com/ 으로 옮겨졌어요. 원본은 oort 저장소의 `clients/site/`에 있어요.
+이 저장소는 예전 주소(team.oor7.com)를 새 주소로 넘기려고 잠시 남겨 둬요.
